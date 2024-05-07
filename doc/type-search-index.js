@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"comp2396.asm3","l":"Assets"}];updateSearchResults();
